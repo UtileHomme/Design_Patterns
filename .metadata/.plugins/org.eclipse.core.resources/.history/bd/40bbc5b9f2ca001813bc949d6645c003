@@ -1,0 +1,23 @@
+public class WorkWithAnimal{
+	
+	int justANum = 10;
+	
+	public static void main(String[] args){
+		
+		Dog fido = new Dog();
+		
+		fido.setName("Fido");
+		System.out.println(fido.getName());
+		
+		fido.digHole();
+		
+		fido.setWeight(-1);
+		
+		// Everything is pass by value
+		// The original is not effected by changes in methods
+		
+		int randNum = 10; 
+	
+	}
+	
+}

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/scrabbler/My_Files/Programming_Related/Design_Patterns/.metadata/.plugins/org.eclipse.jdt.core
+2995097809.index
+690765321.index
